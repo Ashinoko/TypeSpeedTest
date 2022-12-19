@@ -1,5 +1,5 @@
 # TypeSpeedTest
-a Simple game to test your typing dexterity!
+a Simple game to test your typing dexterity! Made with ReactJS
 
 ## Requierments
 npm 6.14.17 , 
