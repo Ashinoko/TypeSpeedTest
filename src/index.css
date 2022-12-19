@@ -1,0 +1,52 @@
+html, body {
+  background: black;
+  color: white;
+  margin:0;
+  padding: 0;
+  padding-top: 10px;
+  font-family:  cursive;
+  font-size: 25px;
+  text-align: center;
+}
+
+body {
+  font-weight: 400;
+}
+
+button {
+  font-family:  cursive;
+  display: block;
+  margin: 0 auto;
+  border: none;
+  background: #a80020;
+  background: white;
+  font-weight: bold;
+  padding: 10px 20px;
+  text-transform: uppercase;
+}
+
+button:disabled {
+  cursor: not-allowed;
+}
+
+h1 {
+  font-size: 20px;
+  text-align:center;
+}
+
+textarea {
+  font-family: Courier New , cursive;
+  border: 3px solid black;
+  font-size: 30px;
+  
+  width: 90%;
+  margin: 0 auto;
+  outline: none;
+  height: 200px;
+  background: white;
+  padding: 10px;
+}
+
+textarea:disabled {
+  background-color: #a5a2a2;
+}
